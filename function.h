@@ -23,3 +23,7 @@ bool checkIfValid( string parString );
 void generateBalanceParUtil( string output, int input, vector<string> &possiblePar );
 
 void generateBalancePar( int n );
+
+void pseudoBalPar(int open, int close, vector<string> &result, string opt);
+
+vector<string> pseudoBalPar( int n );

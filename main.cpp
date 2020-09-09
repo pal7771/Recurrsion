@@ -4,6 +4,13 @@
 using namespace std;
 
 int main(){
-    generateBalancePar(2);
+
+    vector<string> result;
+
+    result = pseudoBalPar(3);
+
+    for(int i = 0; i < result.size(); i++){
+        cout << result[i] << endl;
+    }
     return 0;
 }

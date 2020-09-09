@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1599648653 source:f:\work\cpp\recurrsion\main.cpp
+1599651770 source:f:\work\cpp\recurrsion\main.cpp
 	<bits/stdc++.h>
 	"function.h"
 
-1599648579 f:\work\cpp\recurrsion\function.h
+1599651667 f:\work\cpp\recurrsion\function.h
 	<bits/stdc++.h>
 
 1599630896 source:f:\work\cpp\recurrsion\substr.cpp
