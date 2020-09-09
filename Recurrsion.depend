@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599648653 source:f:\work\cpp\recurrsion\main.cpp
+	<bits/stdc++.h>
+	"function.h"
+
+1599648579 f:\work\cpp\recurrsion\function.h
+	<bits/stdc++.h>
+
+1599630896 source:f:\work\cpp\recurrsion\substr.cpp
+	"function.h"
+
+1599637354 source:f:\work\cpp\recurrsion\uniquesubstr.cpp
+	"function.h"
+
+1599641977 source:f:\work\cpp\recurrsion\substrwithspaces.cpp
+	"function.h"
+
+1599647704 source:f:\work\cpp\recurrsion\stringcapital.cpp
+	"function.h"
+
+1599649204 source:f:\work\cpp\recurrsion\balancedparenthesis.cpp
+	"function.h"
+
